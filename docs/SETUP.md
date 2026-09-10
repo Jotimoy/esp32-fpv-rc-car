@@ -2,7 +2,7 @@
 
 ## Project stages
 
-The original [Phase 1 setup](phase-1-setup.md), [architecture](architecture.md), [roadmap](roadmap.md) and [control protocol](../protocol/control-v1.md) document the staged implementation.
+The original [Phase 1 setup](phase-1-setup.md), [architecture](ARCHITECTURE.md), [roadmap](roadmap.md) and [control protocol](../protocol/control-v1.md) document the staged implementation.
 
 ## Firmware
 

@@ -77,7 +77,7 @@ Original local filenames are retained below for traceability. These names do not
 | `pubspec.lock` | [`apps/controller_app/pubspec.lock`](../apps/controller_app/pubspec.lock) |
 | `pubspec.yaml` | [`apps/controller_app/pubspec.yaml`](../apps/controller_app/pubspec.yaml) |
 | `widget_test.dart` | [`apps/controller_app/test/widget_test.dart`](../apps/controller_app/test/widget_test.dart) |
-| `architecture.md` | [`docs/architecture.md`](../docs/architecture.md) |
+| `architecture.md` | [`docs/ARCHITECTURE.md`](../docs/ARCHITECTURE.md) |
 | `phase-1-setup.md` | [`docs/phase-1-setup.md`](../docs/phase-1-setup.md) |
 | `roadmap.md` | [`docs/roadmap.md`](../docs/roadmap.md) |
 | `config.example.h` | [`firmware/esp32_fpv_car/include/config.example.h`](../firmware/esp32_fpv_car/include/config.example.h) |
