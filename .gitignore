@@ -1,0 +1,38 @@
+# OS and editors
+.DS_Store
+.vscode/
+.idea/
+# Dependencies and build products
+node_modules/
+dist/
+build/
+.pio/
+.venv/
+venv/
+__pycache__/
+*.pyc
+.dart_tool/
+.gradle/
+Pods/
+.flutter-plugins-dependencies
+# Local credentials and runtime data
+.env
+.env.*
+!.env.example
+config.h
+local.properties
+key.properties
+*.keystore
+*.jks
+*.pem
+*.key
+db.json
+*.db
+*.sqlite*
+*.log
+output.avi
+recordings/
+
+# Editor and generated Flutter files
+*.iml
+.flutter-plugins
